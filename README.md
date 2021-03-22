@@ -7,9 +7,9 @@ This repo contains an overview of the books that I enjoyed and/or planning to re
 ### Enjoyed
 |            | Book        | Author      |
 |------------|-------------|-------------|
-| <img src="https://m.media-amazon.com/images/I/51SGjt9pPlL.jpg" width="100"> |[Shoe Dog: A Memoir by the Creator of Nike](https://www.amazon.com/Shoe-Dog-Phil-Knight-audiobook/dp/B01CRJA470/) | Phil Knight 
-| <img src="https://images-na.ssl-images-amazon.com/images/I/51coHv7WpjL._SX329_BO1,204,203,200_.jpg" width="100"> |[The Subtle Art of Not Giving A F*ck](https://www.bol.com/nl/f/the-subtle-art-of-not-giving-a-f-ck/9200000056625922/) | Mark Manson
-| <img src="https://images-na.ssl-images-amazon.com/images/I/517I4AfWPoL._SX331_BO1,204,203,200_.jpg" width="100"> |[The Culture Map: Decoding How People Think, Lead, and Get Things Done Across Cultures)](https://www.bol.com/nl/f/the-culture-map/9200000025775143/) | Erin Meyer
+| <img src="https://m.media-amazon.com/images/I/51SGjt9pPlL.jpg" width="80"> |[Shoe Dog: A Memoir by the Creator of Nike](https://www.amazon.com/Shoe-Dog-Phil-Knight-audiobook/dp/B01CRJA470/) | Phil Knight 
+| <img src="https://images-na.ssl-images-amazon.com/images/I/51coHv7WpjL._SX329_BO1,204,203,200_.jpg" width="80"> |[The Subtle Art of Not Giving A F*ck](https://www.bol.com/nl/f/the-subtle-art-of-not-giving-a-f-ck/9200000056625922/) | Mark Manson
+| <img src="https://images-na.ssl-images-amazon.com/images/I/517I4AfWPoL._SX331_BO1,204,203,200_.jpg" width="80"> |[The Culture Map: Decoding How People Think, Lead, and Get Things Done Across Cultures)](https://www.bol.com/nl/f/the-culture-map/9200000025775143/) | Erin Meyer
 
 
 ### In Progress
@@ -25,7 +25,7 @@ This repo contains an overview of the books that I enjoyed and/or planning to re
 | <img src="https://m.media-amazon.com/images/I/51K-iHvDHNL.jpg" width="100"> |[Influence: The Psychology of Persuasion](https://www.amazon.com/Influence-Robert-B-Cialdini-audiobook/dp/B01KWAPHAK/) | Robert B. Cialdini
 
 
-### Library
+### My Library
 
 #### Entrepreneurship related books
 * [Value Proposition Design: How to Create Products and Services Customers Want (The Strategyzer series)](https://www.amazon.com/Value-Proposition-Design-Customers-Strategyzer/dp/1118968050)
